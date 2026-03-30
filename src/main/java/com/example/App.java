@@ -15,6 +15,6 @@ public class App {
 
     @GetMapping("/")
     public String home() {
-        return "Hello CI/CD Java Pipeline 🚀";
+        return "Hello CI/CD Java Pipeline ";
     }
 }
